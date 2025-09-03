@@ -81,5 +81,5 @@ Feel free to use, modify, and share.
 
 ## 📂 Included Template
 
-- .gitignore
-- .gitattributes
+- `.gitignore`
+- `.gitattributes`
