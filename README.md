@@ -3,8 +3,6 @@
 Recommended `.gitignore` and `.gitattributes` templates for Unreal Engine projects.  
 These templates are tailored for projects using **Git LFS** to efficiently manage large binary assets.
 
-📦 Repository: [sungkukpark/unrealengine-git-templates](https://github.com/sungkukpark/unrealengine-git-templates.git)
-
 ---
 
 ## ✨ Features
