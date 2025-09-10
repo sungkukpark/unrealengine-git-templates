@@ -17,6 +17,11 @@
 *
 #!*/
 
+# Binaries
+#!/Binaries/
+#!/Binaries/Win64/
+#!/Binaries/Win64/**
+
 # Data Folders
 !/Build/
 !/Build/**
@@ -26,11 +31,12 @@
 !/Platforms/
 !/Platforms/**
 
-# Source
+# Plugins
 !/Plugins/
 !/Plugins/**
-/Plugins/**/Binaries/**
 /Plugins/**/Intermediate/**
+
+# Source
 !/Source/
 !/Source/**
 
@@ -134,6 +140,9 @@
 !FAQ
 !VERSION
 !ChangeLog
+
+# Ignore Debug files
+*.pdb
 
 # Ignore Unix backup files
 *~
